@@ -1,0 +1,7 @@
+ANALYSIS DOCUMENTATION
+1.The Data was properly cleaned
+2. The imbalanced in the data was dealt with
+3. Some  aggregations and visual Analysis were carried out
+4. The model was trained with Six diffrent  machine learning model algorithims  and Extra Tree Classifer performs better
+5. Deep learning was also considered and has overall high accuracy
+6. The Test data was predicted and the outcome is saved as finaloutcome.csv
